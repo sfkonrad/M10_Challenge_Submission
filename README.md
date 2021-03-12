@@ -13,3 +13,5 @@ The steps for this challenge were broken down into the following sections:
 > 4. Find the Best Value for k
 > 5. Optimize Clusters with Principal Component Analysis
 > 6. Visualize the Results
+
+[M10_Challenge Submission](https://github.com/sfkonrad/M10_Challenge_Submission/blob/main/M10_Challenge_Submission/M10_Challenge-KonradK-crypto_investments.ipynb)

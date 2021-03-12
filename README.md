@@ -4,9 +4,9 @@
 
 In this Challenge, we combined our financial Python programming skills with the new unsupervised learning skills that we acquired in this module.
 
-![image](https://github.com/sfkonrad/M10_Challenge_Submission/blob/main/M10_Challenge_Submission/Documentation/Images/coin_id-plot.jpg?raw=true)
+The .csv file provided for this challenge contains price change data of cryptocurrencies in different periods.
 
-The CSV file provided for this challenge contains price change data of cryptocurrencies in different periods.
+![image](https://github.com/sfkonrad/M10_Challenge_Submission/blob/main/M10_Challenge_Submission/Documentation/Images/coin_id-plot.jpg?raw=true)
 
 The steps for this challenge were broken down into the following sections:
 > 1. Import the Data (provided in the starter code)

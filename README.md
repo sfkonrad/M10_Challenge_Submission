@@ -1,4 +1,4 @@
-# M10_Challenge_Submission
+# M10_Challenge Submission
 
 ## Challenge: Crypto Investments
 

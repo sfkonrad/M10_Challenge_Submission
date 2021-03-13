@@ -17,3 +17,5 @@ The steps for this challenge were broken down into the following sections:
 > 6. Visualize the Results
 
 [M10_Challenge Submission](https://github.com/sfkonrad/M10_Challenge_Submission/blob/main/M10_Challenge_Submission/M10_Challenge-KonradK-crypto_investments.ipynb)
+
+![image](https://github.com/sfkonrad/M10_Challenge_Submission/blob/main/M10_Challenge_Submission/Documentation/Images/plot_elbow_curve.jpg?raw=true0)
